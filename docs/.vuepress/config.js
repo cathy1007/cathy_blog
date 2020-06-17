@@ -39,5 +39,5 @@ module.exports = {
     dest: './docs/.vuepress/dist',
     ga: '',
     evergreen: true,
-    base:'cathy_blog'
+    base:'/cathy_blog/'
 }
